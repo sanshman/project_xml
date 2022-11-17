@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzas>
+	<pizza>
+		<name>Пепперони</name>
+		<description>Идеальное сочетание небольшой остроты с сыром моцарелла</description>
+		<composition>Традиционное тесто, томатный соус, пикантная пепперони, увеличенная порция сыра моцарелла</composition>
+		<prices>
+			<small>400</small>
+			<middle>600</middle>
+			<large>750</large>
+		</prices>
+		<url>https://i.ibb.co/T8KqyzT/1.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Гавайская</name>
+		<description>Не оставит равнодушным даже самого истинного ценителя</description>
+		<composition>Традиционное тесто, томатный соус, ветчина, ананасы, сыр моцарелла</composition>
+		<prices>
+			<small>400</small>
+			<middle>550</middle>
+			<large>750</large>
+		</prices>
+		<url>https://i.ibb.co/XYPkLwt/2.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Мясная</name>
+		<description>Идеальное сочетание мясных изделий подарит сытость на целый день</description>
+		<composition>Традиционное тесто, томатный соус, курица, ветчина, пикантная пепперони, острая чоризо, сыр моцарелла</composition>
+		<prices>
+			<small>450</small>
+			<middle>700</middle>
+			<large>800</large>
+		</prices>
+		<url>https://i.ibb.co/zG8gGRs/3.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Ветчина и грибы</name>
+		<description>Отличное сочетание ветчины, сыра и грибов</description>
+		<composition>Традиционное тесто, томатный соус, ветчина, шампиньоны, увеличенная порция моцареллы</composition>
+		<prices>
+			<small>350</small>
+			<middle>500</middle>
+			<large>650</large>
+		</prices>
+		<url>https://i.ibb.co/n0sXL32/4.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Четыре сыра</name>
+		<description>Сочетание четырёх сыров подарит приятный сливочный вкус, который не оставит никого равнодушным</description>
+		<composition>Традиционное тесто, сливочный соус, сыр блю чиз, сыр чеддер, сыр пармезан, сыр моцарелла</composition>
+		<prices>
+			<small>450</small>
+			<middle>650</middle>
+			<large>750</large>
+		</prices>
+		<url>https://i.ibb.co/M8FG2Fh/5.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Маргарита</name>
+		<description>Ничего лишнего, почти как сырная, но с небольшой ноткой Италии</description>
+		<composition>Традиционное тесто, томатный соус, увеличенная порция сыра моцарелла, томаты, итальянские травы</composition>
+		<prices>
+			<small>350</small>
+			<middle>500</middle>
+			<large>650</large>
+		</prices>
+		<url>https://i.ibb.co/nwyxB5p/6.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Домашняя</name>
+		<description>Классическое сочетание, которое перенесет вас в школьные годы</description>
+		<composition>Тонкое тесто, томатный соус, пикантная пепперони, ветчина, маринованные огурчики, томаты, сыр моцарелла</composition>
+		<prices>
+			<small>400</small>
+			<middle>600</middle>
+			<large>750</large>
+		</prices>
+		<url>https://i.ibb.co/3vbXf75/7.jpg</url>
+	</pizza>
+	<pizza>
+		<name>Острая</name>
+		<description>Пицца с горячим характером для любителей по-настоящему ощутить огонь внутри себя</description>
+		<composition>Традиционное тесто, томатный соус, острая чоризо, перец халапеньо, соус барбекю, митболы, томаты, сладкий перец, красный лук, сыр моцарелла</composition>
+		<prices>
+			<small>450</small>
+			<middle>700</middle>
+			<large>800</large>
+		</prices>
+		<url>https://i.ibb.co/jDZsxFT/8.jpg</url>
+	</pizza>
+</pizzas>

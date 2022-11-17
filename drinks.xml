@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drinks>
+	<drink>
+		<name>Байкал</name>
+		<price>90</price>
+		<url>https://i.ibb.co/8MwpWdh/1.jpg</url>
+	</drink>
+	<drink>
+		<name>Лимонад</name>
+		<price>90</price>
+		<url>https://i.ibb.co/JrGLHPs/2.jpg</url>
+	</drink>
+	<drink>
+		<name>Тархун</name>
+		<price>90</price>
+		<url>https://i.ibb.co/qNf2qfV/3.jpg</url>
+	</drink>
+	<drink>
+		<name>Апельсиновый сок</name>
+		<price>190</price>
+		<url>https://i.ibb.co/6R4Qj0D/4.jpg</url>
+	</drink>
+	<drink>
+		<name>Яблочный сок</name>
+		<price>190</price>
+		<url>https://i.ibb.co/7CWKCLy/5.jpg</url>
+	</drink>
+	<drink>
+		<name>Вишневый сок</name>
+		<price>190</price>
+		<url>https://i.ibb.co/NLMFM45/6.jpg</url>
+	</drink>
+</drinks>

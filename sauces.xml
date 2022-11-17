@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sauces>
+	<sauce>
+		<name>Кетчуп</name>
+		<price>40</price>
+		<url>https://i.ibb.co/tJHdYN2/1.jpg</url>
+	</sauce>
+	<sauce>
+		<name>Горчичный соус</name>
+		<price>40</price>
+		<url>https://i.ibb.co/F828YwB/2.jpg</url>
+	</sauce>
+	<sauce>
+		<name>Чесночный соус</name>
+		<price>40</price>
+		<url>https://i.ibb.co/9t6yFMK/3.jpg</url>
+	</sauce>
+	<sauce>
+		<name>Сладкий чили</name>
+		<price>40</price>
+		<url>https://i.ibb.co/2vsCWhj/4.jpg</url>
+	</sauce>
+	<sauce>
+		<name>Сырный соус</name>
+		<price>40</price>
+		<url>https://i.ibb.co/Km0v2Pw/5.jpg</url>
+	</sauce>
+	<sauce>
+		<name>Барбекю соус</name>
+		<price>40</price>
+		<url>https://i.ibb.co/qF6FwPg/6.jpg</url>
+	</sauce>
+</sauces>

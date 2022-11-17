@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snacks>
+	<snack>
+		<name>Фришка</name>
+		<price>150</price>
+		<url>https://i.ibb.co/k2wM76r/1.jpg</url>
+	</snack>
+	<snack>
+		<name>Деревенька</name>
+		<price>200</price>
+		<url>https://i.ibb.co/Yd0t5S9/2.jpg</url>
+	</snack>
+	<snack>
+		<name>Сырные палочки</name>
+		<price>180</price>
+		<url>https://i.ibb.co/sHNJ212/3.jpg</url>
+	</snack>
+	<snack>
+		<name>Куриные кусочки</name>
+		<price>250</price>
+		<url>https://i.ibb.co/V2sKvDV/4.jpg</url>
+	</snack>
+	<snack>
+		<name>Куриные крылья</name>
+		<price>280</price>
+		<url>https://i.ibb.co/4gtstCr/5.jpg</url>
+	</snack>
+</snacks>
